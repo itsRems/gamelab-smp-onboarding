@@ -5,8 +5,8 @@ This document is here to give you a short summary of how this server operates, a
 
 
 ## 0. Nice to haves !
-Discord server: discord.gg/QwsFk55guz
-Server IP / WebMap URL: smp.gamelab.gg
+Discord server: [discord.gg/QwsFk55guz](https://discord.gg/QwsFk55guz)
+Server IP / WebMap URL: [smp.gamelab.gg](https://smp.gamelab.gg)
 
 ## 1. Rules
 
