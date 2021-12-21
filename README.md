@@ -1,11 +1,13 @@
 # GameLab.GG SMP - Season One // Onboarding
 
 > If you're reading this, you're very probably a new member of our SMP - Welcome !
-This document is here to give you a short summary of how this server operates, and how to use the various Mods & Plugins provided. Feel free to come back to it at any time !
+
+> This document is here to give you a short summary of how this server operates, and how to use the various Mods & Plugins provided. Feel free to come back to it at any time !
 
 
-## 0. Nice to haves !
+## 0. Nice to have links !
 Discord server: [discord.gg/QwsFk55guz](https://discord.gg/QwsFk55guz)
+
 Server IP / WebMap URL: [smp.gamelab.gg](https://smp.gamelab.gg)
 
 ## 1. Rules
@@ -22,6 +24,7 @@ Here's a basic set of rules to follow:
 ## 2. The modpack
 
 To make the in-game experience more interesting, we've decided to use a VOIP mod/plugin. This allows you to communicate with other players via voice from the game with proximity chat & voice groups. While you don't *need* to use this, it truly makes everyone's experience better.
+
 This modpack may be required to participate in certain events on the server.
 
 #### Required
