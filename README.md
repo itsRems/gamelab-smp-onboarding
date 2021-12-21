@@ -67,6 +67,10 @@ We use GriefDefender to delimit claims. This plugin is amazingly complete and ca
 You can now resize your claim by running:
 * `/claimexpand <size> <north|south|west|east|all>` - to expand your claim by <size> in direction <direction>
 * `/claimcontract <size> <north|south|west|east|all>` - to make your claim smaller by <size> in direction <direction>
+  
+  
+You can trust somone using:
+* `/trust <player>` - to trust <player>
 
 You can access a GUI (chat interface, you can click the "buttons") via `/claiminfo`
 
