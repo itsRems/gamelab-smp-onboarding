@@ -59,19 +59,7 @@ Here's a list of the commands you should know about:
 * `/bank transfer <player> <amount>` - to transfer money to another player. Similar to pay, but no taxes are applied
 
 ## 4. Claims
-We use GriefDefender to delimit claims. This plugin is amazingly complete and can be super complex, but here's a super basic rundown of how to setup your own claim:
 
-* Stand where you want the "center" of your claim to be.
-* Run the command: `/gd claim create chunk` - to claim the chunk you are in
+> We have switched claims plugin on the 25th of december. Below is the link to the official plugin documentation for players - more to come here !
 
-You can now resize your claim by running:
-* `/claimexpand <size> <north|south|west|east|all>` - to expand your claim by <size> in direction <direction>
-* `/claimcontract <size> <north|south|west|east|all>` - to make your claim smaller by <size> in direction <direction>
-  
-  
-You can trust somone using:
-* `/trust <player>` - to trust <player>
-
-You can access a GUI (chat interface, you can click the "buttons") via `/claiminfo`
-
-For advanced usage of this plugin, please check [the wiki](https://github.com/bloodmc/GriefDefender/wiki)
+## [Official Plugin Docs for players](https://github.com/Angeschossen/Lands/wiki/How-to-Start-as-a-Player)
