@@ -43,7 +43,12 @@ The latest version of the modpack can be downloaded from the `#modpack-updates` 
 
 The rest should be pretty straight forward :)
 
-## 3. Economy
+## 3. Utilities
+Utility commands you can use:
+
+* `/trigger ch_toggle` - used to turn ON/OFF a neat coordinates HUD, showing you X/Y/Z coordinates, your heading and the in-game time.
+
+## 4. Economy
 We have an economy system based around the diamond.
 
 The idea is simple: you can deposit your diamonds in the bank to top up your balance, and withdraw them whenever you want. You can pay in shops, transfer money to other people and check your balance. The diamonds stored AND the ones in your hand can be used for purchasing at any shop.
@@ -58,7 +63,7 @@ Here's a list of the commands you should know about:
 * `/pay <player> <amount>` - to pay someone
 * `/bank transfer <player> <amount>` - to transfer money to another player. Similar to pay, but no taxes are applied
 
-## 4. Claims
+## 5. Claims
 
 > We have switched claims plugin on the 25th of december. Below is the link to the official plugin documentation for players - more to come here !
 
