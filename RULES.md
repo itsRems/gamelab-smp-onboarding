@@ -9,6 +9,8 @@ The "GameLab SMP" minecraft server is owned solely by Nicolas "itsRems" Theck, w
 
 either when you break one of the rules in this document, or by a solo admin decision, which does not have to be justified.
 
+> The set of rules that follows is non-exhaustive. Before playing, you MUST understand that the staff has every right to ban/kick/unwhitelist you from the server without giving any specific reason. This rule will usually be applied to griefers, cheaters, and unfriendly people.
+
 #### Bans
 
 You may appeal your bans, but as mentioned above, I have the full right not to give a single fuck.
