@@ -10,16 +10,9 @@ Discord server: [discord.gg/QwsFk55guz](https://discord.gg/QwsFk55guz)
 
 Server IP / WebMap URL: [smp.gamelab.gg](https://smp.gamelab.gg)
 
-## 1. Rules
+## 1. [Rules](https://github.com/itsRems/gamelab-smp-onboarding/blob/master/RULES.md)
 
-Here's a basic set of rules to follow:
-
-* Be nice to other players. This applies to your gameplay, chat interactions and VOIP.
-* Do not engage in PvP activities with other players, unless they have agreed to do so
-* Do not steal ressources from other players
-* Do not claim land close to other existing claims without asking the owner of said claim beforehand. As a general rule, try to leave a few hundred blocks between you and other players (unless seperated by water)
-
-#### The above list is non-exhaustive. Before playing, you MUST understand that the staff has every right to ban/kick/unwhitelist you from the server without giving any specific reason. This rule will usually be applied to griefers, cheaters, and unfriendly people.
+[READ THE DAMN RULES](https://github.com/itsRems/gamelab-smp-onboarding/blob/master/RULES.md)
 
 ## 2. The modpack
 
