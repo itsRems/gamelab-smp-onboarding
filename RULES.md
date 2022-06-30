@@ -21,13 +21,20 @@
 This was our number one mistake last season, and is therefore the most important rule for this season;
 
 The economy should not be a profit-driven market. Basically, we're trying not to recreate capitalism inside minecraft.
+
 While you're free to set your own prices for the ressources you sell, other players are also free to sell the same ressources as you, set different prices, etc.
+
+
 But the goal isn't to have price or stock wars ~ so if you feel like someone is making a shop just to fuck with you, let us know !
+
 It's also alright for someone to make their own farm to gather the same ressource you may sell.
+
 
 To help keep the economy fair & fun, try to fill the gaps within it ~ if 4 people are selling wood already, try to sell something else.
 
+
 Our economy's goal is to keep the server active, not to make people rich. If you're trying to hoard a ressource just to become "the richest person on the server", you'll be asked to stop. continuing with such behaviour will result in a community vote on a potential ban from the server.
+
 
 Here a few rules for the shop:
 * Generally speaking, shops should be built at spawn. We may allow exception if the ressource you're selling can only be bought in huge quantities (e.x. you own a kelp farm), but please contact staff before building a shop away from spawn
